@@ -1,0 +1,14 @@
+7 8/9/2013 3:52:25 leer.txt
+194256.0 8/9/2013 3:52:33 ejemplo.jpg
+194257.0 8/9/2013 3:52:33 ejemplo3.jpg
+194258.0 8/9/2013 3:52:33 ejemplo2.jpg7 9/9/2013 6:12:31 leer.txt
+7 9/9/2013 6:12:35 leer.txt
+7 9/9/2013 6:14:52 leer.txt
+7 9/9/2013 6:15:41 leer.txt
+7 9/9/2013 6:16:27 leer.txt
+7 9/9/2013 6:18:5 leer.txt
+7 9/9/2013 6:18:30 leer.txt
+7 9/9/2013 6:18:34 leer.txt
+166 16/9/2013 8:20:3 leer.txt
+194256.0 17/9/2013 1:9:27 ects\Ejercicios_Clases_esenciales1\Resources\ejemplo.jpg
+5 17/9/2013 1:9:33 ects\Ejercicios_Clases_esenciales1\Resources\leer.txt
